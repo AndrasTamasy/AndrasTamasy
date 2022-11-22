@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AndrasTamasy
 - 👀 I’m interested in photography, filmmaking and code
-- 🌱 I’m currently learning on codeacademy
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently following some courses on codeacademy
 - 📫 How to reach me - atamasy@hotmail.com
 
 <!---
